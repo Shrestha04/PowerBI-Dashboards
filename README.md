@@ -10,40 +10,39 @@ This interactive Power BI dashboard provides insights into patient waitlist tren
 
 ## 📊 Key Features
 
-Total Waitlist KPIs: Compare current and previous year’s monthly waitlist totals.
+- Total Waitlist KPIs: Compare current and previous year’s monthly waitlist totals.
 
-Case Type Distribution: Donut chart showing the percentage breakdown of Outpatient, Day Case, and Inpatient categories.
+- Case Type Distribution: Donut chart showing the percentage breakdown of Outpatient, Day Case, and Inpatient categories.
 
-Wait Time Analysis: Bar chart showing average/median wait times across time bands and age profiles.
+- Wait Time Analysis: Bar chart showing average/median wait times across time bands and age profiles.
 
-Trend Over Time: Line charts tracking the change in waitlist numbers by Case Type over time.
+- Trend Over Time: Line charts tracking the change in waitlist numbers by Case Type over time.
 
-Specialty Insights: Average/Median wait times by medical specialty.
+- Specialty Insights: Average/Median wait times by medical specialty.
 
 ## 🧩 Filters
-Case Type
 
-Specialty
+- Case Type
 
-Age Profile
+- Specialty
 
-Time Bands
+- Age Profile
+
+- Time Bands
 
 ## Summary KPIs
 
-Track overall performance with: Total Waitlist (Current year latest month & Previous Year latest month)
-
-Users can interactively filter the data for more granular insights.
+- Track overall performance with: Total Waitlist (Current year latest month & Previous Year latest month)
 
 ## Visual Analytics
 
-Donut Chart: Average/Median Wait by Case Type
+- Donut Chart: Average/Median Wait by Case Type
 
-Stacked Bar Chart: Wait Times by Time Band & Age Profile
+- Stacked Bar Chart: Wait Times by Time Band & Age Profile
 
-Line Charts: Trend of Waitlist Totals over Time by Case Type
+- Line Charts: Trend of Waitlist Totals over Time by Case Type
 
-Specialty Breakdown: Avg/Med Wait Time by Department
+- Specialty Breakdown: Avg/Med Wait Time by Department
 
 ---
 
