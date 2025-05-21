@@ -6,7 +6,7 @@
 
 This repository contains a Power BI dashboard designed to analyze Uber trip data. The dashboard helps visualize key business metrics and insights related to Uber rides such as total trips, fare revenue, trip duration, shift patterns, payment types, and popular pickup locations.
 
-![Uber Analytics Dashboard](./Screenshot%202025-05-21%20214723.png)
+![Screenshot 2025-05-21 214723](https://github.com/user-attachments/assets/31cff7ce-1191-473c-bc6f-9d0bce4e0483)
 
 ## 📊 Dashboard Highlights
 
@@ -38,8 +38,8 @@ This repository contains a Power BI dashboard designed to analyze Uber trip data
 
 
 ## 🛠 Tools & Technologies
-Visualization Tools: PowerBI
-File Types: .xlsx, .csv, .pbix
+* Visualization Tools: PowerBI
+* File Types: .xlsx, .csv, .pbix
 
 ---
 
